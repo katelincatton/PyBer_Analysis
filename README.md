@@ -11,7 +11,10 @@ add image
 The graph allows us to state that the overall total fares are highest in the Urban area, followed by the second-highest in the Suburban area, and the least total fares in the rural area. The graph is deceiving, as it is true that the total fares are highest in the urban area, however, the average fare amount by city type suggests that fares are highest in the rural area due to having less demand for rides and therefore, drivers. The total fares tend to spike in the weeks at the end of February and mid-April. When fare prices spike and/or drop, all city types follow the same pattern, when one city type spikes, all city types spike and vis versa.
 ---
 ## Summary
-Reccemendations:
+Reccomendations:
 1. Include all months of the year to determine if there are certains points in the year where fare prices spike and/or. If the fare prices spike, it may be beneficial to hire more drivers in those areas.
 2. The data should include the distance and total time of the ride; This would help with analyis because it's hard to determine the correct fare price for all city types without having this informaiton. For example, rural areas cover more area and destinations tend to have a longer distance, as well as a longer time, so the fare prices need to calculated properly to make up for the distance and time taken by the driver. On the otherhand, urban areas have shorter distances to destinations, but are more prone to running into traffic, which is when the time of the ride would once again come in hand when analyzing fares.
-3. 
+3. The comparison of total rides and total drivers suggest that more drivers need to be hired to cover the rural and suburban areas. One way this could be accomplished is by removing some drivers from the urban area and moving them to the rural and suburban areas so that all ride requests can be supported. There are currently too many drivers in the urban for the number of rides being requested.
+---
+Analysis Performed by Katelin Catton
+1/12/2023
