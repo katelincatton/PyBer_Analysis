@@ -12,6 +12,6 @@ The graph allows us to state that the overall total fares are highest in the Urb
 ---
 ## Summary
 Reccemendations:
-1.
-2.
-3.
+1. Include all months of the year to determine if there are certains points in the year where fare prices spike and/or. If the fare prices spike, it may be beneficial to hire more drivers in those areas.
+2. The data should include the distance and total time of the ride; This would help with analyis because it's hard to determine the correct fare price for all city types without having this informaiton. For example, rural areas cover more area and destinations tend to have a longer distance, as well as a longer time, so the fare prices need to calculated properly to make up for the distance and time taken by the driver. On the otherhand, urban areas have shorter distances to destinations, but are more prone to running into traffic, which is when the time of the ride would once again come in hand when analyzing fares.
+3. 
