@@ -17,4 +17,5 @@ Reccomendations:
 3. The comparison of total rides and total drivers suggest that more drivers need to be hired to cover the rural and suburban areas. One way this could be accomplished is by removing some drivers from the urban area and moving them to the rural and suburban areas so that all ride requests can be supported. There are currently too many drivers in the urban area for the number of rides being requested.
 ---
 Analysis Performed by Katelin Catton
+---
 1/12/2023
